@@ -25,16 +25,19 @@ hr{
     margin:3rem 0rem;
 }
 .links-pri{
-    background-color:#A0AEC0 ;
+    background-color:#E5E7EB; 
     border-radius:0.5rem;
     font-size:24px;
     color:black;
+    border:1px solid grey;
+    
 }
 .links-sec{
     color:darkgrey;
     border-radius: 0.5rem;
     font-size:24px;
     border:1px solid grey;
+    
     
 }
 .nonbullets{
@@ -48,7 +51,7 @@ hr{
 }
 .navcantainer
 {
-    background-color: #A0AEC0;
+    background-color:#E5E7EB;
     color:#F3F4F6;
     padding:1rem;
     border-bottom-left-radius: 1rem;
@@ -82,3 +85,20 @@ hr{
       font-size: 64px;
       padding:2rem 0rem;
   }
+  .fontone{
+    color:black;
+    font-size: 24px;
+    padding:1rem 1rem;
+  }
+  .containerone
+  {
+   padding:1rem 0rem;
+   background-color:#E5E7EB ; 
+  }
+  .containertwo
+  {
+   padding:1rem 0rem;
+  background-color: #D0CDE1;;
+  }
+  
+  
