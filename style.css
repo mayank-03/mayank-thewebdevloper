@@ -98,7 +98,21 @@ hr{
   .containertwo
   {
    padding:1rem 0rem;
-  background-color: #D0CDE1;;
+  background-color: #D0CDE1;
   }
-  
+  .colone
+{
+    color:black;
+    padding:2rem 0rem;
+    font-size:24px;
+    border-bottom-left-radius: 1rem;
+    
+    text-decoration: none;
+}
+}
+.br{
+    border-bottom-left-radius: 1rem;
+}
+
+
   
