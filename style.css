@@ -25,7 +25,7 @@ hr{
     margin:3rem 0rem;
 }
 .links-pri{
-    background-color:#E5E7EB; 
+    background-color:#D0CDE1; 
     border-radius:0.5rem;
     font-size:24px;
     color:black;
@@ -93,26 +93,38 @@ hr{
   .containerone
   {
    padding:1rem 0rem;
-   background-color:#E5E7EB ; 
+   border-radius: 1rem;
+   background-color: #D0CDE1;
+   
   }
   .containertwo
   {
    padding:1rem 0rem;
+   border-radius: 1rem;
   background-color: #D0CDE1;
   }
   .colone
 {
     color:black;
     padding:2rem 0rem;
-    font-size:24px;
+    font-size:20px;
     border-bottom-left-radius: 1rem;
     
     text-decoration: none;
 }
-}
+
 .br{
     border-bottom-left-radius: 1rem;
 }
-
+.containerx{
+    padding:1rem 0rem;
+    background-color:#E5E7EB ; 
+}
+.containerwhite
+{
+    padding:1rem 0rem;
+   border-radius: 1rem;
+    background-color: whitesmoke;
+}
 
   
