@@ -107,7 +107,7 @@ hr{
 {
     color:black;
     padding:2rem 0rem;
-    font-size:20px;
+    font-size:32px;
     border-bottom-left-radius: 1rem;
     
     text-decoration: none;
@@ -117,7 +117,7 @@ hr{
     border-bottom-left-radius: 1rem;
 }
 .containerx{
-    padding:1rem 0rem;
+    padding:3rem 0rem;
     background-color:#E5E7EB ; 
 }
 .containerwhite
