@@ -59,7 +59,7 @@ hr{
 .col
 {
     color:black;
-    padding:0.5rem 1rem;
+    padding:0.2rem 0.5rem;
     font-size:32px;
     
 }
@@ -97,6 +97,10 @@ hr{
    background-color: #D0CDE1;
    
   }
+  
+  .x{
+      color:#D0CDE1;
+  }
   .containertwo
   {
    padding:1rem 0rem;
@@ -126,5 +130,24 @@ hr{
    border-radius: 1rem;
     background-color: whitesmoke;
 }
-
-  
+.links-prio{
+    background-color:grey; 
+    border-radius:0.5rem;
+    font-size:24px;
+    color:black;
+   border: 1px solid;
+}
+.links-seco{
+    background-color:#F5F5F5; 
+    border-radius:0.5rem;
+    font-size:24px;
+    color:black;
+   border: 1px solid;
+}  
+.containerwhiteo{
+    
+        padding:1rem 0rem;
+       border-radius: 1rem;
+        background-color: white;
+        margin:3rem auto;
+}
